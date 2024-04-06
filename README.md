@@ -1,5 +1,4 @@
 ---
-title: Terraform DNS to DB Demo on AWS with EC2
 description: Create a DNS to DB Demo on AWS with Route53, ALB, EC2 and RDS Database with 3 Applications
 ---
 # Terraform DNS to DB Demo on AWS with EC2
